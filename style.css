@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 906px;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-family: 'Playfair Display',sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #7D7D7D;
+}
+.flex{
+    display: flex;
+}
+.menu{
+    gap: 100px;
+    margin-top: 71px;
+    margin-left: 163px;
+}
+.el1{
+    color: #3FAA3F;
+}
+/* =========================================HEADER=================================== */
+.section_1{
+    margin-top: 92px;
+}
+.div1{
+    width: 420px;
+    height: 214px;
+}
+.section_1-wrap{
+    gap: 65px;
+}
+.p1_1{
+    font-family: "Ubuntu",sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B4AD9E;
+    margin-top: 62px;
+    margin-bottom: 32px;
+}
+.h2_1 {
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #626262;
+}
+.section_2{
+    margin-top: 120px;
+}
+.p1_2{
+    font-family: "Playfair Display", sans-serif;
+    margin-top: 10px;
+    font-weight: 400;
+    line-height: 19px;
+    font-size: 14px;
+    color: #626262;
+}
+.section_3{
+    margin-top: 120px;
+}
+.div2{
+    border: 2px solid rgb(134, 134, 134);
+    color: #616161;
+    width: 165px;
+    height: 60px;
+    margin-left: 850px;
+    margin-top: 90px;
+    margin-bottom: 66px;
+}
+.p1{
+    margin-top: 20px;
+    margin-left: 49px;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.66px;
+}
